@@ -100,7 +100,7 @@ h2 {
   justify-content: space-between;
   align-items: center;
   transition: background-color 0.3s;
-  user-select: none; /* Impede a seleção do texto */
+  user-select: none;
 }
 
 #taskList li.completed {
@@ -135,7 +135,6 @@ h2 {
   color: #c9302c;
 }
 
-/* Esconde o checkbox padrão e cria um estilo personalizado */
 input[type="checkbox"] {
   -webkit-appearance: none;
   appearance: none;
