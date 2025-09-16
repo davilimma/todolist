@@ -25,27 +25,27 @@ cd todo-list
 
 3. Abra o arquivo index.html diretamente no navegador.
 
-📖 Uso
+## 📖 Uso
 •	Clique no campo de texto para adicionar uma nova tarefa.
 •	Use o botão ✔ para marcar uma tarefa como concluída.
 •	Clique em X para excluir uma tarefa.
 •	As tarefas ficam salvas automaticamente no navegador, mesmo após fechar a página.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 •	HTML5
 • CSS3
 • JavaScript (ES6+)
 
-📌 Próximos Passos
+## 📌 Próximos Passos
 •	Adicionar categorias e prazos às tarefas.
 •	Implementar notificações e lembretes automáticos.
 •	Criar suporte para múltiplos usuários.
 •	Disponibilizar versão mobile.
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT – veja o arquivo LICENSE para detalhes.
 
-🌐 Publicação
+## 🌐 Publicação
 •	GitHub Pages: [link_do_projeto](https://github.com/davilimma/todolist)
 
 
