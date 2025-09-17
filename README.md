@@ -18,7 +18,7 @@ Um aplicativo simples de **lista de tarefas** desenvolvido em **HTML, CSS e Java
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/nome-do-repo.git
+  https://github.com/davilimma/todolist
 
 2. Acesse a pasta do projeto:
 cd todo-list
